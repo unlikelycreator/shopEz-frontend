@@ -36,11 +36,12 @@ body {
 }
 
 .top{
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
+  border-radius:15px;
 }
 
 .maininput{
@@ -53,7 +54,7 @@ body {
 
 
 .add{
-  background-color: rgb(13, 116, 64);
+  background-color: #1d1d1d;
   width: 100%;
   text-align: center;
   padding: 15px;
