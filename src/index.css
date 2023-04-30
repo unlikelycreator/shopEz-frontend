@@ -82,6 +82,7 @@ body {
   color: white;
   border-radius: 15px;
   margin: 10px;
+  width: justify;
 }
 
 .item:hover{
