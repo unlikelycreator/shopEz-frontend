@@ -69,7 +69,8 @@ body {
 }
 
 .add:hover{
-  background-color: rgb(31, 155, 93);
+  background-color: white;
+  color: black;
 }
 
 .list{
