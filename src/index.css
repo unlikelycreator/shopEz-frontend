@@ -24,7 +24,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(233, 246, 232);
+  background-color: white;
 }
 
 .animation{
@@ -78,7 +78,7 @@ body {
 .item{
   font-size: 20px;
   padding: 15px 30px;
-  background-color: rgb(96, 166, 30);
+  background-color:#604f9c;
   color: white;
   border-radius: 15px;
   margin: 10px;
