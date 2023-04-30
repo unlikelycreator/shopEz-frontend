@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseurl = "http://localhost:5000/items"
+const baseurl = "https://shopez-backend.onrender.com/items"
 
 
 
